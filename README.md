@@ -2,7 +2,7 @@
 # Hi, I'm Yoseph Shimelis! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoseph%20Shimelis-blue?style=flat-square&logo=linkedin&color=2867B2)](http://linkedin.com/in/yoseph-shimelis-ba4447289)
-[![GitHub](https://img.shields.io/badge/GitHub-Yoseph%20Shimelis-black?style=flat-square&logo=github&color=181717)](https://github.com/YosephCode)
+[![GitHub](https://img.shields.io/badge/GitHub-Yoseph%20Shimelis-black?style=flat-square&logo=github&color=181717)](https://github.com/Yoseph1994)
 
 Welcome to my profile! I'm a passionate and enthusiastic software developer with experience in Python, JavaScript, C, and Java. I love building innovative solutions and exploring new technologies. Constantly seeking opportunities to learn and grow, I enjoy collaborating with others to create impactful projects.
 
